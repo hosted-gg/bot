@@ -46,5 +46,3 @@ async def kuki(ctx, *req):
             resp_ = await parse_resp(i)
             await ctx.send(resp_)
 
-
-bot.run('ODg4NzIzOTgzMzAwNjk0MDE2.YUW2tQ.PdFw4C3u1Bgia5RGs_R2wSRI6QY')
